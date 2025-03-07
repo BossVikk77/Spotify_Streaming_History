@@ -1,0 +1,2664 @@
+{
+  "playlists": [
+    {
+      "name": "Moonlit Love Songs",
+      "lastModifiedDate": "2023-07-23",
+      "items": [
+        {
+          "track": {
+            "trackName": "Lonely Is the Night",
+            "artistName": "Air Supply",
+            "albumName": "Hearts In Motion",
+            "trackUri": "spotify:track:6gAhuDvn8Ef6P710UMze9W"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "Endless Love",
+            "artistName": "Lionel Richie",
+            "albumName": "Back To Front",
+            "trackUri": "spotify:track:5iwyLsQ5yjnCaRrJGyAPZM"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "The Lady In Red",
+            "artistName": "Chris de Burgh",
+            "albumName": "Into The Light",
+            "trackUri": "spotify:track:1GeNWyZtCHbcp3ZWp8GTOO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "All My Life",
+            "artistName": "K-Ci & JoJo",
+            "albumName": "Love Always",
+            "trackUri": "spotify:track:5GorFaKkP2mLREQvhSblIg"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "Time After Time",
+            "artistName": "Cyndi Lauper",
+            "albumName": "She's So Unusual",
+            "trackUri": "spotify:track:7o9uu2GDtVDr9nsR7ZRN73"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+            "artistName": "Roxette",
+            "albumName": "It Must Have Been Love",
+            "trackUri": "spotify:track:6kvoHl80mfCVTv7XnZkjQn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "The Power of Love",
+            "artistName": "Jennifer Rush",
+            "albumName": "The Power Of Love: The Best Of Jennifer Rush",
+            "trackUri": "spotify:track:18DfMhEx4ddoreHrvZDF6Q"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "The Power of Love",
+            "artistName": "Céline Dion",
+            "albumName": "The Colour Of My Love",
+            "trackUri": "spotify:track:5kK1Iru9ogP3Iy1zsANU1n"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "Chiquitita",
+            "artistName": "ABBA",
+            "albumName": "Voulez-Vous",
+            "trackUri": "spotify:track:762B4bOcXF7I2Y8UlKTyTy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "From a Distance",
+            "artistName": "Bette Midler",
+            "albumName": "Some People's Lives",
+            "trackUri": "spotify:track:48eiLW57CqSmCYNZRM2J8M"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "Un-Break My Heart",
+            "artistName": "Toni Braxton",
+            "albumName": "Secrets",
+            "trackUri": "spotify:track:5Ihd9HrPvOADyVoonH9ZjB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "Spanish Guitar",
+            "artistName": "Toni Braxton",
+            "albumName": "The Heat",
+            "trackUri": "spotify:track:1ieouFxB2A3JjKEt1OoEiB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "Blame",
+            "artistName": "Grace Carter",
+            "albumName": "Blame",
+            "trackUri": "spotify:track:6pQUQdaZacg722q6sg6fPR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-23"
+        },
+        {
+          "track": {
+            "trackName": "Heal Me",
+            "artistName": "FARR",
+            "albumName": "Weightless",
+            "trackUri": "spotify:track:1oQzBqAv9zvLFUd2HvS77O"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-23"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "No Name Yet",
+      "lastModifiedDate": "2023-05-26",
+      "items": [
+        {
+          "track": {
+            "trackName": "Ho Hey",
+            "artistName": "The Lumineers",
+            "albumName": "The Lumineers",
+            "trackUri": "spotify:track:1K3LRUEcUz5FMtPYyg0F45"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-26"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Praise Storm ⛈️",
+      "lastModifiedDate": "2023-07-02",
+      "items": [
+        {
+          "track": {
+            "trackName": "THIS YEAR (Blessings) - Acoustic Version",
+            "artistName": "Victor Thompson",
+            "albumName": "THIS YEAR (Blessings)",
+            "trackUri": "spotify:track:3TawMDALb9pwBKoBWkZWLE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-16"
+        },
+        {
+          "track": {
+            "trackName": "ADURA",
+            "artistName": "Mike Abdul",
+            "albumName": "HALLELUYAH ALWAYS",
+            "trackUri": "spotify:track:11qwuW8cFbDdUojD2idWUY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-07"
+        },
+        {
+          "track": {
+            "trackName": "Pariwo - Live",
+            "artistName": "Prinx Emmanuel",
+            "albumName": "Pariwo",
+            "trackUri": "spotify:track:4V3qAdoqO3pbgpwLvg4bet"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-16"
+        },
+        {
+          "track": {
+            "trackName": "Praise Medley (Live)",
+            "artistName": "Victoria Orenze",
+            "albumName": "No Other God (Live Ministration)",
+            "trackUri": "spotify:track:2xH2m0przETWfEDyhD2tI7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-17"
+        },
+        {
+          "track": {
+            "trackName": "Irun Ori Mi - Koto Lati Yin Baba Logo",
+            "artistName": "Enakeno",
+            "albumName": "Irun Ori Mi",
+            "trackUri": "spotify:track:66jMbOazAro4kRM5lQOLU2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-18"
+        },
+        {
+          "track": {
+            "trackName": "Tobi",
+            "artistName": "JayMikee",
+            "albumName": "One Man Nation",
+            "trackUri": "spotify:track:0E7HbK45gKvVg2s7X9xQVt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-22"
+        },
+        {
+          "track": {
+            "trackName": "Praise Medley, Vol.1 (Live)",
+            "artistName": "Xtreme Dynasty",
+            "albumName": "Praise Medley, Vol.1 (Live)",
+            "trackUri": "spotify:track:2P7NokNkFGuhZbO2Siaf8q"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-02"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Classicals",
+      "lastModifiedDate": "2023-03-12",
+      "items": [
+        {
+          "track": {
+            "trackName": "Requiem in D Minor, K. 626: Sequence: VI. Lacrimosa dies illa",
+            "artistName": "Wolfgang Amadeus Mozart",
+            "albumName": "Mozart: Requiem / Exultate, Jubilate / Laudate Dominum",
+            "trackUri": "spotify:track:5p3xMIHQ6YoAIaSgZeOkNa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+            "artistName": "Wolfgang Amadeus Mozart",
+            "albumName": "Mozart: Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\"",
+            "trackUri": "spotify:track:0iGDZom5WctL4eSQogMhMp"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Piano Concerto No. 21 in C Major, K. 467: II. Andante",
+            "artistName": "Wolfgang Amadeus Mozart",
+            "albumName": "Mozart: Piano Concertos, Vol. 6",
+            "trackUri": "spotify:track:429GaRIWKJ3EU1GAQPbLcr"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Serenade in B-Flat Major, K. 361 \"Gran Partita\": III. Adagio",
+            "artistName": "Wolfgang Amadeus Mozart",
+            "albumName": "Mozart, W.A.: The Wind Concertos / Serenades / Divertimenti",
+            "trackUri": "spotify:track:0XkcuWNLacWDwEDmvq4CCy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Requiem, K. 626: Lacrimosa",
+            "artistName": "Wolfgang Amadeus Mozart",
+            "albumName": "Mozart: Requiem Realisations",
+            "trackUri": "spotify:track:3oHSL6pt9LpNrQZuQGu9wL"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Sonata No. 14 \"Moonlight\" in C-Sharp Minor\", Op. 27 No. 2: I. Adagio sostenuto",
+            "artistName": "Ludwig van Beethoven",
+            "albumName": "Beethoven: Piano Sonatas, Vol.3",
+            "trackUri": "spotify:track:3DNRdudZ2SstnDCVKFdXxG"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Bagatelle No. 25 in A Minor, WoO 59 \"Für Elise\"",
+            "artistName": "Ludwig van Beethoven",
+            "albumName": "Für Elise, Bagatelle No. 25 in A Minor, WoO 59",
+            "trackUri": "spotify:track:3zLTPuucd3e6TxZnu2dlVS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+            "artistName": "Ludwig van Beethoven",
+            "albumName": "Originals Beethoven Box",
+            "trackUri": "spotify:track:2ygeBLTP9uu3OW3VTulD8N"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Für Elise, WoO 59",
+            "artistName": "Ludwig van Beethoven",
+            "albumName": "Beethoven Greatest Hits",
+            "trackUri": "spotify:track:6MQAB3vorg90FA3tQpbYXK"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Adagietto",
+            "artistName": "Arash Safaian",
+            "albumName": "This Is (Not) Beethoven",
+            "trackUri": "spotify:track:3EO1jW8meUV5olvl3UTD6W"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
+            "artistName": "Johann Sebastian Bach",
+            "albumName": "Bach: Cello Suites Nos. 1, 5 & 6",
+            "trackUri": "spotify:track:17i5jLpzndlQhbS4SrTd0B"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",
+            "artistName": "Johann Sebastian Bach",
+            "albumName": "J.S. Bach: The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude",
+            "trackUri": "spotify:track:4i8ly7ffzWu8nfKLI8SZFj"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"on the G String\"",
+            "artistName": "Johann Sebastian Bach",
+            "albumName": "Born in the 1600s: Bach",
+            "trackUri": "spotify:track:0DqFXzLtKkj9JO421NJpl1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Goldberg Variations, BWV 988: Aria",
+            "artistName": "Johann Sebastian Bach",
+            "albumName": "Bach: The Goldberg Variations, BWV 988",
+            "trackUri": "spotify:track:5bu9A6uphPWg39RC3ZKeku"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        },
+        {
+          "track": {
+            "trackName": "Prelude in C Minor, BWV 999",
+            "artistName": "Johann Sebastian Bach",
+            "albumName": "Bach, J.S.: Italian Concerto / Chromatic Fantasia and Fugue / 12 Little Preludes",
+            "trackUri": "spotify:track:79PxV2pwMVtwEGC4LB0U8f"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-12"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Jazz up",
+      "lastModifiedDate": "2023-05-26",
+      "items": [
+        {
+          "track": {
+            "trackName": "I Got You - 1964 Smash Version",
+            "artistName": "James Brown",
+            "albumName": "Get On Up - The James Brown Story",
+            "trackUri": "spotify:track:711ba03szQaASPznwdZkuw"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "Feeling Good",
+            "artistName": "Nina Simone",
+            "albumName": "I Put A Spell On You",
+            "trackUri": "spotify:track:6Rqn2GFlmvmV4w9Ala0I1e"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "I Put A Spell On You",
+            "artistName": "Nina Simone",
+            "albumName": "I Put A Spell On You",
+            "trackUri": "spotify:track:0sjxRg1VlYfx4YG7uxurrq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "Sinnerman",
+            "artistName": "Nina Simone",
+            "albumName": "Pastel Blues",
+            "trackUri": "spotify:track:5xRP5iyVdGglqlY4Vcjhkx"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "It's A Man's, Man's, Man's World",
+            "artistName": "James Brown",
+            "albumName": "It's A New Day - Let A Man Come In",
+            "trackUri": "spotify:track:3BcH252CGECgOWfKBjAaBC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "Fast Car",
+            "artistName": "Tracy Chapman",
+            "albumName": "Tracy Chapman",
+            "trackUri": "spotify:track:2M9ro2krNb7nr7HSprkEgo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "Baby Can I Hold You",
+            "artistName": "Tracy Chapman",
+            "albumName": "Tracy Chapman",
+            "trackUri": "spotify:track:2DjWsDGgL1xNbhnr7f6t5F"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "Car Wash - Long Version",
+            "artistName": "Rose Royce",
+            "albumName": "Rockin' 70's",
+            "trackUri": "spotify:track:07RgAeKIlahtqeCw25SkTu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-26"
+        },
+        {
+          "track": {
+            "trackName": "Don't Know Much (with Aaron Neville)",
+            "artistName": "Linda Ronstadt",
+            "albumName": "Cry Like a Rainstorm Howl Like the Wind",
+            "trackUri": "spotify:track:5z3ZDMP02xF33yCvPFnct3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-26"
+        },
+        {
+          "track": {
+            "trackName": "You Don't Own Me",
+            "artistName": "Lesley Gore",
+            "albumName": "Lesley Gore Sings Of Mixed-Up Hearts",
+            "trackUri": "spotify:track:7ngRS53kqxLcEt9Pythc5d"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-26"
+        },
+        {
+          "track": {
+            "trackName": "I Wish I Knew How It Would Feel to Be Free",
+            "artistName": "Nina Simone",
+            "albumName": "Silk & Soul",
+            "trackUri": "spotify:track:5CKHhg31HcYYhwUeeGqvhq"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-26"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Vickay",
+      "lastModifiedDate": "2023-03-03",
+      "items": [
+        {
+          "track": {
+            "trackName": "Yes Lord",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:3tRGI0FiVjubodiQVUbvwY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Holy Ghost",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:0ioinOB7Go2xOtAkP95nlZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Man of Galilee",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:4VfBnOSE7ptbJFkQnDhXgT"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Omemma",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:3t2o1njvVXz9IojLD1FTqk"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Song of Angels (Ndi Mo Zi)",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:00NA2OJaIksp50W8wVNAN0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "More Than Gold",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:7aYSK256AQktjtOs3MnIii"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Fountain",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:5tfi75R7deeMuiwTLEL6ST"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Nations",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:4HaiSkguFtNPUkgxqGBUyK"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Idinma",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:6733R4GpUdWE4yJumzLy5k"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Raboni",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:2LauDYg1uBDBKTMieep2yy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Capable God",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:25sRKHPOYj8XsDXbxxdx3y"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Alanu",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:04ELkaI0uJG8YvPva0bqjv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Imegi",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:1YXP8JqGw8EQ7gpl6rkvVg"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "More Than Gold - Remix",
+            "artistName": "Judikay",
+            "albumName": "Man Of Galilee",
+            "trackUri": "spotify:track:4Ni3x5uNd7cjMStxdUnwwX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "One for Me",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:1gxt1jjb10d9ekJbngqBEo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Mudiana",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:5kd9NC70nh5DQQ7CIV34at"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "No Fear",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:49f0iGdJvkO9fbsgAXlbkw"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Solid Rock",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:6k7XX2paSyWnoj5qjER6PC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "I Bow",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:1Xj1E0D0nbs5cLt0zzpuEn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Have Your Way",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:3qiFE1Ed1R5GioQWOd5XcY"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Daddy, You Too Much",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:6zoi0eyXqTVPODY6bWQqxc"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Keleya",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:7kYYUp90BXun7ekkDzkX5s"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Your Grace",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:5NZ86wBHirGwKh24yQrAU6"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Elohim",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:220UzWccU1LJOWERgp4hB8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Jesus Is Coming",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:1MUM1i5B2WwLaH2FRq2X5z"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Satisfied",
+            "artistName": "Judikay",
+            "albumName": "From This Heart",
+            "trackUri": "spotify:track:3NJmwBBoXrjnK0HVsub8bC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "We Receive",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:4kGAazr7iKd4ZXOtbR1mW7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Walk by Faith",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:5HJzZ4MqxtTjr2CHj5waEd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "The Weapon",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:3kN8VqmKvZFTLW1gzX7UpK"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "The Fountain (Osimiri Atata)",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:4DhsAnWPIy1WrwYj61eWEU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Surely (Dem Dey Follow Me)",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:16DQ4f9lv9iM6RkwV7XmLa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Ascend",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:7LLrIlKE8zKhxr1eg2uVlD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Gratitude",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:6FOtEedC7uCwri090WzvV0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Promises (Hallelujah)",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:64OjDfOkeBbmv9p7UQmg17"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "This Year (I No Go Fear)",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:5McDdBHcZrur361JyQvMqd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Paid For",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:43D4RSdIiZirGvCVz4gcbC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Yahweh",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:50gKTziEgANIuZB4PsosJO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Supernatural",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:77pDYJLTWcyNqNdoh0p34Z"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "I Get Backing",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:5z8u1GwA8J7dBx1zMpfrjW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Emi Mimo",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:4rHjZkV1rqxLsYtczQw1XP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Brooding",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:7mO08b4eHfOWukOkW6gIdj"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Invade Me",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:1aYiaLlZNEiKQz1M3xcyho"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "On Fire",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:2rn3SbXpuzacWTj6WQEB2W"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Draw",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:1XlnaoiYqjZdc8ZhDyZR0P"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "I Thirst for You",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:7qQqr1NyQlJ9DwYN6MOH3J"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "I Want to See You",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:1D4AAzG340hMDZKHSYHJ4v"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "The Presence",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:3LXnTqZ9YOYsrrUPFZdaX4"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Only the Living",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:3CN8viTyr5zAFrqXFVvonu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Great and Mighty",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:4qanT7Gir2k9jonOyxVqAn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "My Redeemer",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:2RMGZa7oStBBCljeK9tHWl"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "I Proclaim You",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:2pHOmMFgZLemEHx0t2bVDZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Holy",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:70A9hCs4BrRwdDRTcnivNw"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "We Bow Down",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:2tgc8fJaOoi7oY6lVNT2Hl"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        },
+        {
+          "track": {
+            "trackName": "Covenant Keeping God",
+            "artistName": "Victoria Orenze",
+            "albumName": "Return Rev. 2:4",
+            "trackUri": "spotify:track:5MYgYKMr8jJXMqGla1R5s0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-23"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Fire Brand 🔥",
+      "lastModifiedDate": "2023-06-17",
+      "items": [
+        {
+          "track": {
+            "trackName": "Kaabo",
+            "artistName": "Dunsin Oyekan",
+            "albumName": "The Glory Experience (Songs of Zion)",
+            "trackUri": "spotify:track:5RrEkgXlClry1Wln0LTpIa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-22"
+        },
+        {
+          "track": {
+            "trackName": "Adua",
+            "artistName": "1Spirit & Theophilus Sunday",
+            "albumName": "Adua",
+            "trackUri": "spotify:track:0es0mq0nvuoqkp8xc6ufk0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "Take Over",
+            "artistName": "1Spirit & Theophilus Sunday",
+            "albumName": "Take Over",
+            "trackUri": "spotify:track:5TSGWNF15R6vfrb0ZDhTSI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "HOLY FIRE",
+            "artistName": "1Spirit & Theophilus Sunday",
+            "albumName": "The Walk",
+            "trackUri": "spotify:track:3WFqMCf4oRy9oreUqC6B1z"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "Spirit Pray II",
+            "artistName": "Elijah Oyelade",
+            "albumName": "Spirit Pray",
+            "trackUri": "spotify:track:6Zgm5M7G6PXQqNs2F6Agxn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "The Call (Chants)",
+            "artistName": "Minister GUC",
+            "albumName": "To Yahweh's Delight",
+            "trackUri": "spotify:track:5Tiam84rOv9mReGegBJN8y"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "Flaunt Your Fire (Holy Ghost)",
+            "artistName": "Praiz Singz",
+            "albumName": "Flaunt Your Fire (Holy Ghost)",
+            "trackUri": "spotify:track:2zwltlr42APbCR1rnAsoOU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "I Will Pray",
+            "artistName": "Ebuka Songs",
+            "albumName": "I Will Pray",
+            "trackUri": "spotify:track:7EeZuxPhKcHu6awLk7s5c0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "Midnight Cry, Vol. 2",
+            "artistName": "Ebuka Songs",
+            "albumName": "Midnight Cry, Vol. 2",
+            "trackUri": "spotify:track:61HQhDFSepCxDlrJcpg9nW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "What I Preach",
+            "artistName": "Ebuka Songs",
+            "albumName": "What I Preach",
+            "trackUri": "spotify:track:21YYcK8Oq4l89n1MIMqpvB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-07"
+        },
+        {
+          "track": {
+            "trackName": "Ascend",
+            "artistName": "Victoria Orenze",
+            "albumName": "Truth in Sounds",
+            "trackUri": "spotify:track:7LLrIlKE8zKhxr1eg2uVlD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-05"
+        },
+        {
+          "track": {
+            "trackName": "Hunger (Cover Version)",
+            "artistName": "Praiz Singz",
+            "albumName": "Journey To The Deep (Prayer Chants)",
+            "trackUri": "spotify:track:76gDNGmyEYTKpSlzBDkxh0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-05"
+        },
+        {
+          "track": {
+            "trackName": "Blessed Are You (Cover Version)",
+            "artistName": "Praiz Singz",
+            "albumName": "Journey To The Deep (Prayer Chants)",
+            "trackUri": "spotify:track:04D1WXF8ffkGXMxYmH5Czd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-06"
+        },
+        {
+          "track": {
+            "trackName": "Eyes of The Spirit Chant (Cover Version)",
+            "artistName": "Praiz Singz",
+            "albumName": "Journey To The Deep (Prayer Chants)",
+            "trackUri": "spotify:track:1ChG8HUNhUKa0Qyl4CvT5B"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-06"
+        },
+        {
+          "track": {
+            "trackName": "B'Ola - Honour",
+            "artistName": "Sunmisola Agbebi",
+            "albumName": "B'Ola",
+            "trackUri": "spotify:track:2dMDbU8IYPSltZayJLQ9Mb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-30"
+        },
+        {
+          "track": {
+            "trackName": "Volume Of The Book",
+            "artistName": "Moses Akoh",
+            "albumName": "Volume Of The Book",
+            "trackUri": "spotify:track:5SU5SVJgEy4aSdXaXr6u6o"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-10"
+        },
+        {
+          "track": {
+            "trackName": "Elohim Adonai",
+            "artistName": "David Dam",
+            "albumName": "Elohim Adonai",
+            "trackUri": "spotify:track:5dIj0tNjsEeF1h2QfnrGDo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-11"
+        },
+        {
+          "track": {
+            "trackName": "Owo Oluwa",
+            "artistName": "P.Daniel Olawande",
+            "albumName": "Owo Oluwa",
+            "trackUri": "spotify:track:2JKJWJyX3BbavWJ9mGCk6s"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-16"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 1
+    },
+    {
+      "name": "Some Noise",
+      "lastModifiedDate": "2023-10-25",
+      "items": [
+        {
+          "track": {
+            "trackName": "Without Me",
+            "artistName": "Eminem",
+            "albumName": "The Eminem Show",
+            "trackUri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-21"
+        },
+        {
+          "track": {
+            "trackName": "Stan",
+            "artistName": "Eminem",
+            "albumName": "The Marshall Mathers LP",
+            "trackUri": "spotify:track:3UmaczJpikHgJFyBTAJVoz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-21"
+        },
+        {
+          "track": {
+            "trackName": "Happier",
+            "artistName": "Marshmello",
+            "albumName": "Happier",
+            "trackUri": "spotify:track:2dpaYNEQHiRxtZbfNsse99"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-21"
+        },
+        {
+          "track": {
+            "trackName": "Closer",
+            "artistName": "The Chainsmokers",
+            "albumName": "Closer",
+            "trackUri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-21"
+        },
+        {
+          "track": {
+            "trackName": "Can't Hold Us (feat. Ray Dalton)",
+            "artistName": "Macklemore",
+            "albumName": "The Heist",
+            "trackUri": "spotify:track:22skzmqfdWrjJylampe0kt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "Glorious (feat. Skylar Grey)",
+            "artistName": "Macklemore",
+            "albumName": "GEMINI",
+            "trackUri": "spotify:track:0CokSRCu5hZgPxcZBaEzVE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-03"
+        },
+        {
+          "track": {
+            "trackName": "We Are Young (feat. Janelle Monáe)",
+            "artistName": "fun.",
+            "albumName": "Some Nights",
+            "trackUri": "spotify:track:5rgy6ghBq1eRApCkeUdJXf"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-15"
+        },
+        {
+          "track": {
+            "trackName": "Some Nights",
+            "artistName": "fun.",
+            "albumName": "Some Nights",
+            "trackUri": "spotify:track:67WTwafOMgegV6ABnBQxcE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-15"
+        },
+        {
+          "track": {
+            "trackName": "Hall of Fame (feat. will.i.am)",
+            "artistName": "The Script",
+            "albumName": "#3 Deluxe Version",
+            "trackUri": "spotify:track:7wMq5n8mYSKlQIGECKUgTX"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-13"
+        },
+        {
+          "track": {
+            "trackName": "Thrift Shop (feat. Wanz)",
+            "artistName": "Macklemore & Ryan Lewis",
+            "albumName": "The Heist",
+            "trackUri": "spotify:track:6CjtS2JZH9RkDz5UVInsa9"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-13"
+        },
+        {
+          "track": {
+            "trackName": "HandClap",
+            "artistName": "Fitz and The Tantrums",
+            "albumName": "Fitz and The Tantrums",
+            "trackUri": "spotify:track:7j56HrjR9cGzvekvZY3Faz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-13"
+        },
+        {
+          "track": {
+            "trackName": "Ho Hey",
+            "artistName": "The Lumineers",
+            "albumName": "The Lumineers",
+            "trackUri": "spotify:track:1K3LRUEcUz5FMtPYyg0F45"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-10-25"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Warship",
+      "lastModifiedDate": "2023-07-14",
+      "items": [
+        {
+          "track": {
+            "trackName": "Worship Experience",
+            "artistName": "Deborah Billyben",
+            "albumName": "Worship Experience",
+            "trackUri": "spotify:track:3KmaO3sMXV6kSKuxihHbzy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "YOU ARE GOOD",
+            "artistName": "Deborah Billyben",
+            "albumName": "YOU ARE GOOD",
+            "trackUri": "spotify:track:0FiyL1KQvCxJHz90WpR9Zy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Throne Room Worship",
+            "artistName": "Deborah Billyben",
+            "albumName": "Throne Room Worship",
+            "trackUri": "spotify:track:08wZrBJv6ucpneTBh6EbwI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-22"
+        },
+        {
+          "track": {
+            "trackName": "Onye Inaputara",
+            "artistName": "Yadah",
+            "albumName": "The Love Story",
+            "trackUri": "spotify:track:0oWLgVnctVwUfjUu1IkxQb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-23"
+        },
+        {
+          "track": {
+            "trackName": "Most High",
+            "artistName": "Joepraize",
+            "albumName": "Most High",
+            "trackUri": "spotify:track:4G8mNTaMliY1RdgAVwcVDS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-23"
+        },
+        {
+          "track": {
+            "trackName": "OUR GOD IS Indescribable",
+            "artistName": "Owie Abutu",
+            "albumName": "Pages of MY Heart",
+            "trackUri": "spotify:track:5crFTZlB8F78Q1vKpkLL8v"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-23"
+        },
+        {
+          "track": {
+            "trackName": "Spontaneous Endless Worship",
+            "artistName": "Victor Thompson",
+            "albumName": "Spontaneous Endless Worship",
+            "trackUri": "spotify:track:1wxbaC0dbPDrgdnlQp1rlg"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-23"
+        },
+        {
+          "track": {
+            "trackName": "Ekwueme",
+            "artistName": "Prospa Ochimana",
+            "albumName": "Ekwueme to the World Project",
+            "trackUri": "spotify:track:5YOR2BKwdWNnDqIZzEgguu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-23"
+        },
+        {
+          "track": {
+            "trackName": "Di Mi Mu",
+            "artistName": "Gbenga Akinfenwa",
+            "albumName": "Jehovah Olugbeja",
+            "trackUri": "spotify:track:5uWw9Tfnc3L78ahwRkahmu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-24"
+        },
+        {
+          "track": {
+            "trackName": "Koseunti",
+            "artistName": "Sunmisola Agbebi",
+            "albumName": "Koseunti",
+            "trackUri": "spotify:track:2crS3DOA1Gmf7Y8cXVrvas"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-24"
+        },
+        {
+          "track": {
+            "trackName": "Ebenezer",
+            "artistName": "David Dam",
+            "albumName": "Ebenezer",
+            "trackUri": "spotify:track:718vAbNLit3rNDsuChMwWS"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-25"
+        },
+        {
+          "track": {
+            "trackName": "Zoe",
+            "artistName": "Odunayo Adebayo",
+            "albumName": "Zoe",
+            "trackUri": "spotify:track:5B1gRAqQrDCjSgrxISUQAZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-25"
+        },
+        {
+          "track": {
+            "trackName": "Ope Mi",
+            "artistName": "Pita",
+            "albumName": "As I Am: In His Image",
+            "trackUri": "spotify:track:5Tf3Pu5PUTzdKysGXnijAQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-25"
+        },
+        {
+          "track": {
+            "trackName": "No More Veil",
+            "artistName": "Seyi Israel",
+            "albumName": "No More Veil",
+            "trackUri": "spotify:track:2AilmoHiRWwHUkTdBXu9ZJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-25"
+        },
+        {
+          "track": {
+            "trackName": "acts II",
+            "artistName": "Yinka Okeleye",
+            "albumName": "acts II",
+            "trackUri": "spotify:track:59nfOrSxXmLmmA5Y0ha75B"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-29"
+        },
+        {
+          "track": {
+            "trackName": "Oba to Nja Funmi",
+            "artistName": "Gbenga Akinfenwa",
+            "albumName": "Jehovah Olugbeja",
+            "trackUri": "spotify:track:0neI2ClmeMnkQC8edY4jGD"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-29"
+        },
+        {
+          "track": {
+            "trackName": "Christ Is Reason",
+            "artistName": "Jo Deep",
+            "albumName": "From Deep to You (Session One)",
+            "trackUri": "spotify:track:6QcywwT7wiSCGjzdvjOUxo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-12"
+        },
+        {
+          "track": {
+            "trackName": "Ebenezer - Live",
+            "artistName": "Nathaniel Bassey",
+            "albumName": "HALLELUJAH LIVE",
+            "trackUri": "spotify:track:1NIsNb7J8yfy9TYE1ycKMp"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-27"
+        },
+        {
+          "track": {
+            "trackName": "Beyond Me",
+            "artistName": "Yadah",
+            "albumName": "The Love Story",
+            "trackUri": "spotify:track:1dLvBXVVbWSrZ9j0g2YyHT"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-30"
+        },
+        {
+          "track": {
+            "trackName": "THIS YEAR (Blessings) - Acoustic Version",
+            "artistName": "Victor Thompson",
+            "albumName": "THIS YEAR (Blessings)",
+            "trackUri": "spotify:track:3TawMDALb9pwBKoBWkZWLE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-16"
+        },
+        {
+          "track": {
+            "trackName": "Na Your Hand",
+            "artistName": "Yadah",
+            "albumName": "Na Your Hand",
+            "trackUri": "spotify:track:4of2lvm7dopjHj5NoELI5O"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-16"
+        },
+        {
+          "track": {
+            "trackName": "Jericho",
+            "artistName": "Paul Tomisin",
+            "albumName": "Jericho",
+            "trackUri": "spotify:track:2vi1tgB4ffggflWnEWHrIt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-28"
+        },
+        {
+          "track": {
+            "trackName": "B'Ola - Honour",
+            "artistName": "Sunmisola Agbebi",
+            "albumName": "B'Ola",
+            "trackUri": "spotify:track:2dMDbU8IYPSltZayJLQ9Mb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-30"
+        },
+        {
+          "track": {
+            "trackName": "Amazing",
+            "artistName": "Sunmisola Agbebi",
+            "albumName": "Amazing",
+            "trackUri": "spotify:track:5htMTFNoSHCAXicJwG2KFI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-01"
+        },
+        {
+          "track": {
+            "trackName": "In Your Name",
+            "artistName": "Pastor Emmanuel Iren",
+            "albumName": "Apostolos (Sounds of Transition)",
+            "trackUri": "spotify:track:155i130Umf4qKpxybZcMpc"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-16"
+        },
+        {
+          "track": {
+            "trackName": "Owo Oluwa",
+            "artistName": "P.Daniel Olawande",
+            "albumName": "Owo Oluwa",
+            "trackUri": "spotify:track:2JKJWJyX3BbavWJ9mGCk6s"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-16"
+        },
+        {
+          "track": {
+            "trackName": "Irun Ori Mi - Koto Lati Yin Baba Logo",
+            "artistName": "Enakeno",
+            "albumName": "Irun Ori Mi",
+            "trackUri": "spotify:track:66jMbOazAro4kRM5lQOLU2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-18"
+        },
+        {
+          "track": {
+            "trackName": "Protocol breaker",
+            "artistName": "Jimmy D Psalmist",
+            "albumName": "Protocol breaker",
+            "trackUri": "spotify:track:2qAcPHYYGiKpIsxdyTxtxB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-18"
+        },
+        {
+          "track": {
+            "trackName": "Daalu (Thank You)",
+            "artistName": "Esther Oji",
+            "albumName": "Daalu (Thank You)",
+            "trackUri": "spotify:track:1vIukJn8co7dGPq7rRHc2H"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-06-20"
+        },
+        {
+          "track": {
+            "trackName": "Broken (Acoustic)",
+            "artistName": "kaestrings",
+            "albumName": "Broken (Acoustic)",
+            "trackUri": "spotify:track:1XIrW7CB8mRKv9EdgoSUiP"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-12"
+        },
+        {
+          "track": {
+            "trackName": "Mighty God",
+            "artistName": "Moses Akoh",
+            "albumName": "Satisfied",
+            "trackUri": "spotify:track:33xOSLwXR0GTb3vCSz5STJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-12"
+        },
+        {
+          "track": {
+            "trackName": "We Raise A Sound",
+            "artistName": "Nosa",
+            "albumName": "We Raise A Sound",
+            "trackUri": "spotify:track:7zwSMMJkrRJNvxFO9w42nA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-14"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Feelzz",
+      "lastModifiedDate": "2023-07-23",
+      "items": [
+        {
+          "track": {
+            "trackName": "Viva Forever",
+            "artistName": "Spice Girls",
+            "albumName": "Viva Forever",
+            "trackUri": "spotify:track:4sB9igr4cKIT358vYdjrkv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Ain't No Sunshine",
+            "artistName": "Lighthouse Family",
+            "albumName": "Greatest Hits",
+            "trackUri": "spotify:track:435rQGMojc5C6xJbtjeynu"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Life for Rent",
+            "artistName": "Dido",
+            "albumName": "Life For Rent",
+            "trackUri": "spotify:track:7nYS7mmZh0K8EbM8DBRwb9"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "White Flag",
+            "artistName": "Dido",
+            "albumName": "Life For Rent",
+            "trackUri": "spotify:track:6si71supnBUhddjR2FJc2L"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Thank You",
+            "artistName": "Dido",
+            "albumName": "No Angel",
+            "trackUri": "spotify:track:3yUcJwYu7fXAfqMj9krY6l"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "When You Say Nothing At All",
+            "artistName": "Ronan Keating",
+            "albumName": "Ronan",
+            "trackUri": "spotify:track:0gcjc7Vt5xtcfmJgf6g2IO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "(Everything I Do) I Do It For You",
+            "artistName": "Bryan Adams",
+            "albumName": "Waking Up The Neighbours",
+            "trackUri": "spotify:track:1Eb90nmqTrxylKFhcUzW8P"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Heaven",
+            "artistName": "Bryan Adams",
+            "albumName": "Reckless",
+            "trackUri": "spotify:track:7Ewz6bJ97vUqk5HdkvguFQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "My Love",
+            "artistName": "Westlife",
+            "albumName": "Coast To Coast",
+            "trackUri": "spotify:track:5p0ietGkLNEqx1Z7ijkw5g"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Hero",
+            "artistName": "Enrique Iglesias",
+            "albumName": "Escape",
+            "trackUri": "spotify:track:1PAgmT6YqGhd6zT9kN9gIo"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "You're Beautiful",
+            "artistName": "James Blunt",
+            "albumName": "Back to Bedlam",
+            "trackUri": "spotify:track:0vg4WnUWvze6pBOJDTq99k"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "You Are The Reason",
+            "artistName": "Calum Scott",
+            "albumName": "Only Human",
+            "trackUri": "spotify:track:69vToJ9BMbbLlFZo7k7A7B"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Where Are You Now",
+            "artistName": "Lost Frequencies",
+            "albumName": "Where Are You Now",
+            "trackUri": "spotify:track:3uUuGVFu1V7jTQL60S1r8z"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Dancing On My Own",
+            "artistName": "Calum Scott",
+            "albumName": "Only Human",
+            "trackUri": "spotify:track:2BOqDYLOJBiMOXShCV1neZ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "All For Us",
+            "artistName": "Labrinth",
+            "albumName": "Imagination & the Misfit Kid",
+            "trackUri": "spotify:track:76YSWx6L6FNsuaP6GWBb8P"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Formula",
+            "artistName": "Labrinth",
+            "albumName": "Euphoria (Original Score from the HBO Series)",
+            "trackUri": "spotify:track:6EtKlIQmGPB9SX8UjDJG5s"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Mount Everest",
+            "artistName": "Labrinth",
+            "albumName": "Imagination & the Misfit Kid",
+            "trackUri": "spotify:track:1ZdhOMWyFR8Iv9eylMGYg2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Still Don't Know My Name",
+            "artistName": "Labrinth",
+            "albumName": "Euphoria (Original Score from the HBO Series)",
+            "trackUri": "spotify:track:6N22FZs2ZhPBYi3b9XPajV"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Jealous",
+            "artistName": "Labrinth",
+            "albumName": "Jealous - EP",
+            "trackUri": "spotify:track:4G92yYrUs0cvY7G41YRI0z"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Seasons",
+            "artistName": "Lloyiso",
+            "albumName": "Seasons",
+            "trackUri": "spotify:track:3gmKj3ulv2GGeW4JkmphHE"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "I'm Yours",
+            "artistName": "Jason Mraz",
+            "albumName": "We Sing. We Dance. We Steal Things.",
+            "trackUri": "spotify:track:3S0OXQeoh0w6AY8WQVckRW"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "a thousand years",
+            "artistName": "Christina Perri",
+            "albumName": "The Twilight Saga: Breaking Dawn - Part 1",
+            "trackUri": "spotify:track:03H03k1F6t3VqCSPRBtuHk"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Locked Away (feat. Adam Levine)",
+            "artistName": "R. City",
+            "albumName": "What Dreams Are Made Of",
+            "trackUri": "spotify:track:7x5xYW5W42OGPAdHUyyguy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Runaway",
+            "artistName": "AURORA",
+            "albumName": "All My Demons Greeting Me As A Friend",
+            "trackUri": "spotify:track:1v1oIWf2Xgh54kIWuKsDf6"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Say You Won't Let Go",
+            "artistName": "James Arthur",
+            "albumName": "Back from the Edge",
+            "trackUri": "spotify:track:5uCax9HTNlzGybIStD3vDh"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Faded",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:698ItKASDavgwZ3WjaWjtz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Wellerman - Sea Shanty",
+            "artistName": "Nathan Evans",
+            "albumName": "Wellerman - The Album",
+            "trackUri": "spotify:track:0WoQSoNO40qdY3j6PxMy4b"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Hello",
+            "artistName": "Lionel Richie",
+            "albumName": "Can't Slow Down",
+            "trackUri": "spotify:track:6HMvJcdw6qLsyV1b5x29sa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Stuck On You",
+            "artistName": "Lionel Richie",
+            "albumName": "Can't Slow Down",
+            "trackUri": "spotify:track:6HPLeKiNm92RbykX2BDTUB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Superstition - Single Version",
+            "artistName": "Stevie Wonder",
+            "albumName": "The Definitive Collection",
+            "trackUri": "spotify:track:1h2xVEoJORqrg71HocgqXd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Signed, Sealed, Delivered (I'm Yours)",
+            "artistName": "Stevie Wonder",
+            "albumName": "Signed, Sealed And Delivered",
+            "trackUri": "spotify:track:2eF8pWbiivYsYRpbntYsnc"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Just Give Me a Reason (feat. Nate Ruess)",
+            "artistName": "P!nk",
+            "albumName": "The Truth About Love",
+            "trackUri": "spotify:track:1mKXFLRA179hdOWQBwUk9e"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Don't Forget About Me",
+            "artistName": "CLOVES",
+            "albumName": "XIII",
+            "trackUri": "spotify:track:4gVZhkcsZcwQ4mU1gEeXEO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Dandelions",
+            "artistName": "Ruth B.",
+            "albumName": "Safe Haven",
+            "trackUri": "spotify:track:2eAvDnpXP5W0cVtiI0PUxV"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Back To Black",
+            "artistName": "Amy Winehouse",
+            "albumName": "Back To Black",
+            "trackUri": "spotify:track:3FAclTFfvUuQYnEsptbK8w"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "One Of A Kind",
+            "artistName": "Ronan Keating",
+            "albumName": "Twenty Twenty",
+            "trackUri": "spotify:track:5qpCKwkAnG7irQmmsei8sU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Say Something",
+            "artistName": "A Great Big World",
+            "albumName": "Is There Anybody Out There? - Track by Track Commentary",
+            "trackUri": "spotify:track:5TvE3pk05pyFIGdSY9j4DJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "Stand Up (From Harriet)",
+            "artistName": "Cynthia Erivo",
+            "albumName": "Stand Up (From Harriet)",
+            "trackUri": "spotify:track:3wNNbf63xkxw9rIVWtFy7a"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "If Tomorrow Never Comes",
+            "artistName": "Ronan Keating",
+            "albumName": "Destination",
+            "trackUri": "spotify:track:7tbJozWewwmFvTkXCUFtt0"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-19"
+        },
+        {
+          "track": {
+            "trackName": "The Night We Met",
+            "artistName": "Lord Huron",
+            "albumName": "Strange Trails",
+            "trackUri": "spotify:track:3hRV0jL3vUpRrcy398teAU"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-21"
+        },
+        {
+          "track": {
+            "trackName": "Fallin'",
+            "artistName": "Alicia Keys",
+            "albumName": "Songs In A Minor",
+            "trackUri": "spotify:track:0KQx6HOpJueiSkztcS0r7D"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-22"
+        },
+        {
+          "track": {
+            "trackName": "Hold Back The River",
+            "artistName": "James Bay",
+            "albumName": "Chaos And The Calm",
+            "trackUri": "spotify:track:1KZyVnyptQcPzkx7ELCnZC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-02-22"
+        },
+        {
+          "track": {
+            "trackName": "Somebody That I Used To Know",
+            "artistName": "Gotye",
+            "albumName": "Making Mirrors",
+            "trackUri": "spotify:track:1qDrWA6lyx8cLECdZE7TV7"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-01"
+        },
+        {
+          "track": {
+            "trackName": "Overcome",
+            "artistName": "Skott",
+            "albumName": "A Letter from the Universe",
+            "trackUri": "spotify:track:6NzO8H8HWe1hHaiZWiGpXH"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-05"
+        },
+        {
+          "track": {
+            "trackName": "Always Remember Us This Way",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack",
+            "trackUri": "spotify:track:2rbDhOo9Fh61Bbu23T2qCk"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-05"
+        },
+        {
+          "track": {
+            "trackName": "Helium",
+            "artistName": "Sia",
+            "albumName": "Fifty Shades Darker",
+            "trackUri": "spotify:track:4S6fv0puLCsfYjyBTPDb9k"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-03-10"
+        },
+        {
+          "track": {
+            "trackName": "Bad For Me (feat. Teddy Swims)",
+            "artistName": "Meghan Trainor",
+            "albumName": "Bad For Me (feat. Teddy Swims)",
+            "trackUri": "spotify:track:7fHeyjwJRzbIlGm4DAvLJ1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-04-21"
+        },
+        {
+          "track": {
+            "trackName": "Stand By Me",
+            "artistName": "Ben E. King",
+            "albumName": "Don't Play That Song",
+            "trackUri": "spotify:track:3SdTKo2uVsxFblQjpScoHy"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-05-23"
+        },
+        {
+          "track": {
+            "trackName": "The Lady In Red",
+            "artistName": "Chris de Burgh",
+            "albumName": "Into The Light",
+            "trackUri": "spotify:track:1GeNWyZtCHbcp3ZWp8GTOO"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-07"
+        },
+        {
+          "track": {
+            "trackName": "Blame",
+            "artistName": "Grace Carter",
+            "albumName": "Blame",
+            "trackUri": "spotify:track:6pQUQdaZacg722q6sg6fPR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-23"
+        },
+        {
+          "track": {
+            "trackName": "Heal Me",
+            "artistName": "FARR",
+            "albumName": "Weightless",
+            "trackUri": "spotify:track:1oQzBqAv9zvLFUd2HvS77O"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2023-07-23"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}

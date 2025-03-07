@@ -1,0 +1,159 @@
+library(tidyverse)
+library(ggplot2)
+library(hms)
+library(patchwork)
+
+# Load the data
+spotify_data <- read_csv("spotify_history.csv")
+
+# Check for missing data
+missing_data <- spotify_data %>%
+  summarise_all(~sum(is.na(.)))
+View(missing_data)
+
+# Display the rows with null values
+spotify_data %>%
+  filter(if_any(everything(), is.na)) %>% 
+  View()
+
+# Checking for non-standard dates
+spotify_data %>% 
+  filter(is.na(ymd_hms(ts))) %>% 
+  View()
+
+# Remove all rows with at least 1 null value
+spotify_data <- spotify_data %>% 
+  drop_na() %>% 
+  filter(!is.na(ymd_hms(ts)))
+
+# Modify original data set and Remove 2014 year as it has insufficient data
+spotify_data <- spotify_data %>%
+  mutate(
+    ts = ymd_hms(ts),
+    year = year(ts),
+    month = month(ts, label = TRUE, abbr = FALSE),
+    hour = hour(ts),
+    time = as_hms(sprintf("%02d:%02d:00", hour(ts), minute(ts)))
+  ) %>% 
+  select(-ts) %>% 
+  select(spotify_track_uri, year, month, hour, time, everything()) %>%
+  group_by(artist_name) %>% 
+  mutate(first_year = min(year)) %>%
+  arrange(year) %>%
+  mutate(artist_type = ifelse(year == first_year, "New", "Old"),
+         artist_bin_type = ifelse(year == first_year, 1, 0)) %>% 
+  ungroup() %>% 
+  filter(year != 2014)
+
+# Convert shuffle and skipped to binary
+spotify_data <- spotify_data %>% 
+  mutate(
+    shuffle_bin = ifelse(shuffle == TRUE, 1, 0),
+    skipped_bin = ifelse(skipped == TRUE, 1, 0)
+  )
+
+# Which Artist was listened to the most?
+# Is it the same as the previous year?
+top_artists <- spotify_data %>%
+  group_by(year, artist_name) %>% 
+  summarise(count = n(), .groups = "drop_last") %>%
+  slice_max(order_by = count, n = 1, with_ties = FALSE)
+
+top_songs <- spotify_data %>% 
+  group_by(year, track_name) %>%
+  summarise(count = n(),
+            percentage_skipped = round(mean(skipped_bin) * 100, 0),
+            .groups = "drop_last") %>%
+  slice_max(order_by = count, n = 1, with_ties = FALSE)
+
+top_albums <- spotify_data %>% 
+  group_by(year, album_name) %>%
+  summarise(count = n(), .groups = "drop_last") %>%
+  slice_max(order_by = count, n = 1, with_ties = FALSE)
+
+# Check the hour of the day when the most songs are listened to
+top_hours <- spotify_data %>% 
+  group_by(year, hour) %>%
+  summarise(count = n(), .groups = "drop_last") %>%
+  slice_max(order_by = count, n = 1, with_ties = FALSE)
+
+# Count new vs returning artists per year
+artist_trend <- spotify_data %>%
+  group_by(year, artist_type) %>%
+  summarise(count = n_distinct(artist_name), .groups = "drop")
+
+# Count number of times each hour appears and classify as AM/PM
+hourly_counts <- spotify_data %>%
+  group_by(hour) %>%
+  summarise(total_songs = n())
+
+
+# Create the bar chart for top artists
+ggplot(top_artists, aes(x = year, y = count, fill = artist_name)) +
+  geom_col() +
+  geom_text(aes(label = count, y = count + 140),
+            color = "black", size = 4) +
+  labs(title = "MOST LISTENED TO ARTIST PER YEAR", x = "Year", y = "Count", 
+       fill = "Artist:") +
+  scale_x_continuous(breaks = seq(2013, 2024, by = 1)) +
+  coord_flip() +
+  theme_minimal() +
+  theme(axis.text.x = element_text(size = 12),
+        plot.title = element_text(size = 16, face = "bold"),
+        legend.position = "top",
+        legend.title = element_text(size = 12, face = "bold"),
+        legend.text = element_text(face = "bold.italic"))
+
+
+# Create the bar chart for top songs
+ggplot(top_songs, aes(x = year)) +
+  geom_col(aes(y = count), fill = "steelblue") +
+  geom_line(aes(y = percentage_skipped), color = "orange", size = 1) +
+  geom_point(aes(y = percentage_skipped), color = "orange", size = 2) +
+  scale_y_continuous(
+    name = "Count",
+    sec.axis = sec_axis(~ ., name = "Percentage Skipped (%)")
+  ) +
+  scale_x_continuous(breaks = seq(2013, 2024, by = 1)) +
+  labs(title = "TOP SONGS: COUNT vs PERCENTAGE SKIPPED", x = "Year") +
+  theme_minimal() +
+  theme(
+    axis.title.y = element_text(color = "steelblue", face = "bold"),
+    axis.title.y.right = element_text(color = "orange", face = "bold"),
+    plot.title = element_text(size = 16, face = "bold"),
+    axis.text.x = element_text(size = 12, angle = 45),
+    axis.text.y = element_text(color = "steelblue"),
+    axis.text.y.right = element_text(color = "orange")
+  )
+
+
+# Create the polar chart for time of the day with most played songs
+ggplot(hourly_counts, aes(x = factor(hour), y = total_songs, fill = total_songs)) +
+  geom_col() +
+  coord_polar(start = -0.13) +  # Start at 12 o'clock
+  scale_x_discrete(breaks = seq(0, 23, by = 1)) +
+  scale_fill_viridis_c() +
+  labs(title = "DAILY TOP LISTENING HOURS", fill = "Number of Songs") +
+  theme_minimal() +
+  theme(axis.text.y = element_blank(),
+        axis.title.y = element_blank(),
+        plot.title = element_text(size = 16, face = "bold"),
+        axis.title.x = element_blank())
+
+
+artist_trend <- spotify_data %>%
+  group_by(year, artist_type) %>%
+  summarise(count = n_distinct(artist_name), .groups = "drop")
+
+ggplot(artist_trend, aes(x = year, y = count, fill = artist_type)) +
+  geom_col(position = "stack") +
+  scale_fill_manual(values = c("New" = "steelblue", "Old" = "orange")) +
+  labs(title = "NEW VS. RETURNING ARTISTS PER YEAR", x = "Year", y = "Number of Artists", 
+       fill = "Artist Type") +
+  scale_x_continuous(breaks = seq(2013, 2024, by = 1)) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        plot.title = element_text(size = 16, face = "bold"))
+
+
+write.csv(spotify_data, "spotify_data_cleaned.csv", row.names = FALSE)

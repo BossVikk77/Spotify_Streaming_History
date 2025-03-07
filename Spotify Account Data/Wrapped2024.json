@@ -1,0 +1,99 @@
+{
+  "topArtists": {
+    "numUniqueArtists": 118,
+    "topArtists": [
+      {
+        "artistUri": "spotify:artist:5j4HeCoUlzhfWtjAfM1acR"
+      },
+      {
+        "artistUri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+      },
+      {
+        "artistUri": "spotify:artist:4f8vvLN5Rt3WszqOqVR9e9"
+      },
+      {
+        "artistUri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+      },
+      {
+        "artistUri": "spotify:artist:6QrQ7OrISRYIfS5mtacaw2"
+      }
+    ],
+    "topArtistMilliseconds": 1394453,
+    "topArtistFanPercentage": 0.23726703
+  },
+  "topTracks": {
+    "topTracks": [
+      "spotify:track:3JvKfv6T31zO0ini8iNItO",
+      "spotify:track:6UoScMkrhuw7FuElV8NYs3",
+      "spotify:track:1SOClUWhOi8vHZYMz3GluK",
+      "spotify:track:5hx7w26Zi3zafMgvMTUqF6",
+      "spotify:track:18DfMhEx4ddoreHrvZDF6Q"
+    ],
+    "topTrackPlayCount": 4,
+    "topTrackFirstPlayedDate": "2024-11-06",
+    "distinctTracksPlayed": 118
+  },
+  "yearlyMetrics": {
+    "totalMsListened": 29239834,
+    "mostListenedDay": "2024-02-03",
+    "mostListenedDayMinutes": 199.95811,
+    "percentGreaterThanWorldwideUsers": 17.908264
+  },
+  "musicEvolution": {
+    "eras": [
+      {
+        "key": "0",
+        "peakMonth": 2,
+        "color": "red",
+        "genre": "love song",
+        "mood": "romantic",
+        "descriptor": "slow dance",
+        "pivotalArtists": [
+          "spotify:artist:4S9EykWXhStSc15wEx8QFK",
+          "spotify:artist:3gMaNLQm7D9MornNILzdSl",
+          "spotify:artist:6YHEMoNPbcheiWS2haGzkn"
+        ],
+        "tracks": [
+          {
+            "trackName": "Just Once - New Version",
+            "trackUri": "spotify:track:0rKPoDE9Bm4OcZeyHrHZnV"
+          },
+          {
+            "trackName": "You Mean to Tell Me",
+            "trackUri": "spotify:track:3s8ucgfOx7PPpLMu3fXuBh"
+          },
+          {
+            "trackName": "Nothing's Gonna Change My Love for You",
+            "trackUri": "spotify:track:0vB4Vd6PtkJSEnWsmqATnZ"
+          }
+        ]
+      },
+      {
+        "key": "1",
+        "peakMonth": 11,
+        "color": "green-blue",
+        "genre": "gospel",
+        "mood": "atmospheric",
+        "pivotalArtists": [
+          "spotify:artist:5a6NvoJbMKKuHFIrftg1DP",
+          "spotify:artist:7fG249hsXVMxhDYXtCfPzr",
+          "spotify:artist:5gOBGZay8Nt5orlQI8UDDg"
+        ],
+        "tracks": [
+          {
+            "trackName": "The Believer's Anthem",
+            "trackUri": "spotify:track:2lY1v52nENE82udSobGUu8"
+          },
+          {
+            "trackName": "Song of the Lamb",
+            "trackUri": "spotify:track:7eZEI768MVkTA8wOomgfmm"
+          },
+          {
+            "trackName": "Peace",
+            "trackUri": "spotify:track:47THDoLQhEwGyT2voq42Zf"
+          }
+        ]
+      }
+    ]
+  }
+}
